@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-concat": "latest",
+    "gulp-minify": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-useref": "latest",
+    "jshint": "latest",
+    "jshint-stylish": "latest",
+    "gulp-jshint": "latest",
+    "gulp-csslint": "latest",
+    "gulp-rev": "latest",
+    "gulp-rev-rewrite": "latest",
+    "gulp-rev-delete-original": "latest",
+    "del": "latest"
+  },
+  "name": "ProfileImageAlteration",
+  "version": "0.1.0",
+  "description": "Experiments to create other kinds of profile images",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabian Dennler",
+  "license": "MIT"
+}
